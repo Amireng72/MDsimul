@@ -1,2 +1,2 @@
 # MDsimul
-Herein, I will share my MD OpenMM Codes
+Herein, I will share some issues while using Mdtraj and openMM
